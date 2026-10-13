@@ -158,9 +158,11 @@ Ante o exposto, as parcelas vencidas no curso da execução e as despesas anteci
 
 Aplicados os parâmetros acima, a planilha de documento 2 reúne 82 (oitenta e dois) lançamentos de taxas condominiais, sendo 66 da planilha da petição inicial e 16 vencidos no curso da execução, e apura, em 3 de julho de 2026, o débito de R$ 10.324,00 (dez mil, trezentos e vinte e quatro reais), já com a multa de 2% e os honorários de 10%. Abatido o valor levantado, de R$ 14.470,58, nessa mesma data, resulta saldo credor de R$ 4.146,58 (quatro mil, cento e quarenta e seis reais e cinquenta e oito centavos) em favor da executada.
 
-Posteriormente ao levantamento, venceram quatro parcelas, que, atualizadas até 13 de outubro de 2026, somam R$ 302,63 (trezentos e dois reais e sessenta e três centavos), conforme o documento 3. A esse valor somam-se as custas de R$ 216,00 do documento 4, o que totaliza R$ 518,63 (quinhentos e dezoito reais e sessenta e três centavos).
+Posteriormente ao levantamento, venceram quatro parcelas, que, atualizadas até 13 de outubro de 2026, somam R$ 302,63 (trezentos e dois reais e sessenta e três centavos). Abatido esse valor do saldo credor, a planilha de documento 3 apresenta saldo credor de R$ 3.843,95 (três mil, oitocentos e quarenta e três reais e noventa e cinco centavos).
 
-Compensado esse total com o saldo credor, o crédito exequendo, incluídas as taxas vencidas até 13 de outubro de 2026 e as custas, encontra-se integralmente satisfeito, remanescendo, em valor nominal apurado nessa data, saldo credor de R$ 3.627,95 (três mil, seiscentos e vinte e sete reais e noventa e cinco centavos) em favor da executada. Por lealdade e boa-fé processuais, nos termos do art. 5º do Código de Processo Civil, a exequente informa e reconhece essa conclusão.
+Por fim, as custas antecipadas pela exequente, atualizadas até a mesma data, somam R$ 216,00 (duzentos e dezesseis reais). Abatidas do saldo credor anterior, a planilha de documento 4 apresenta o saldo credor final de R$ 3.627,95 (três mil, seiscentos e vinte e sete reais e noventa e cinco centavos).
+
+Dessa forma, o crédito exequendo, incluídas as taxas vencidas até 13 de outubro de 2026 e as custas, encontra-se integralmente satisfeito, e o valor levantado a maior, em valor nominal apurado nessa data, é de R$ 3.627,95, em favor da executada. Por lealdade e boa-fé processuais, nos termos do art. 5º do Código de Processo Civil, a exequente informa e reconhece essa conclusão.
 
 Ante o exposto, o crédito exequendo foi satisfeito em 3 de julho de 2026, e as parcelas vencidas até 13 de outubro de 2026 e as custas estão cobertas pelo valor levantado, de modo que a obrigação da executada nestes autos está quitada, nos termos do art. 924, inciso II, do Código de Processo Civil.
 

@@ -29,6 +29,6 @@ Peça a elaborar: manifestação sobre o adimplemento da dívida (quitação) �
 ## Cálculo (skill calculo-debito-abacus)
 INPC (tabela até 09/2026), juros 1% simples sobre o corrigido, multa 2%, honorários 10%, variações negativas = 0. Abatimento do valor efetivamente levantado (R$ 14.470,58) na data do levantamento (03/07/2026).
 2_TAXAS.PDF: 82 parcelas (66 da inicial + 16 vencidas até 10/06/2026), total até 03/07/2026 R$ 10.324,00; abatimento R$ 14.470,58; saldo credor R$ 4.146,58.
-3_VINCENDA.PDF: 4 parcelas (10/07 a 10/10/2026) até 13/10/2026: R$ 302,63.
-4_CUSTAS.PDF: R$ 216,00 (só INPC, sem juros) até 13/10/2026.
+3_VINCENDA.PDF: 4 parcelas (10/07 a 10/10/2026) até 13/10/2026: R$ 302,63, com abatimento do saldo credor de R$ 4.146,58 (total −R$ 3.843,95).
+4_CUSTAS.PDF: R$ 216,00 (só INPC, sem juros) até 13/10/2026, com abatimento do saldo anterior (total −R$ 3.627,95 = valor levantado a maior).
 Saldo credor final da executada em 13/10/2026: R$ 4.146,58 − R$ 302,63 − R$ 216,00 = R$ 3.627,95.
