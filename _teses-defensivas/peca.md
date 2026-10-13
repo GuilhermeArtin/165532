@@ -1,0 +1,199 @@
+EXCELENTÍSSIMO SENHOR DOUTOR JUIZ FEDERAL DA 10ª VARA FEDERAL DA SEÇÃO JUDICIÁRIA DA PARAÍBA
+
+PROCESSO Nº 0801167-04.2025.4.05.8201
+
+MUNDO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS, já devidamente qualificado nos autos da EXECUÇÃO DE TÍTULO EXTRAJUDICIAL em epígrafe, que move em face do FUNDO DE ARRENDAMENTO RESIDENCIAL, representado pela CAIXA ECONÔMICA FEDERAL, vem respeitosamente perante Vossa Excelência, por meio de seu advogado que a esta subscreve, em atenção ao Ato Ordinatório de ID 189369424, apresentar MANIFESTAÇÃO SOBRE O ADIMPLEMENTO DA DÍVIDA E A QUITAÇÃO, pelas razões de fato e de direito a seguir expostas.
+
+<!-- word:inicio -->
+
+## DO ATO ORDINATÓRIO E DO OBJETO DESTA MANIFESTAÇÃO
+
+A exequente foi intimada, por meio do Ato Ordinatório de ID 189369424, nos seguintes termos:
+
+> De ordem do MM. Juiz(íza) Federal da 10ª Vara/PB e com base no artigo 203, § 4º, do Código de Processo Civil c/c o artigo 107, do Provimento nº 19, de 14 de agosto de 2022, da Corregedoria-Regional da Justiça Federal da 5ª Região, Intimar a parte exequente para, no prazo de 15 (quinze) dias, se manifestar sobre o adimplemento da dívida, em cumprimento ao item 3 do Despacho ID 91878125, em face da comprovação da transferência dos valores.
+
+<!-- p. 5 -->
+
+O comando decorre do item 3 do Despacho de ID 91878125, que dispôs:
+
+> 3. Transferidos os valores, intime-se a exequente, novamente, para se manifestar sobre o adimplemento da dívida.
+
+<!-- p. 35 -->
+
+A transferência foi cumprida pela instituição financeira, que comunicou ao Juízo, por meio do documento de ID 171309431, o seguinte:
+
+> Informamos o cumprimento de seu ofício id. 4058201.171268655, pelo qual realizamos levantamento da conta judicial 3987.005.86412499-2, em favor de PAULO ESTEVES CARNEIRO
+
+<!-- p. 6 -->
+
+O comprovante do levantamento e da transferência eletrônica consta do ID 171309432 e registra o valor de R$ 14.470,58 (quatorze mil, quatrocentos e setenta reais e cinquenta e oito centavos), operação realizada em 3 de julho de 2026. O extrato da conta judicial juntado ao ID 122732031 aponta que ela recebeu dois depósitos, um de R$ 7.269,51 (sete mil, duzentos e sessenta e nove reais e cinquenta e um centavos), em 16 de maio de 2025, e outro de R$ 6.923,34 (seis mil, novecentos e vinte e três reais e trinta e quatro centavos), em 25 de agosto de 2025, com saldo de R$ 14.255,48 (quatorze mil, duzentos e cinquenta e cinco reais e quarenta e oito centavos) em 13 de outubro de 2025.
+
+Cumpre, assim, manifestar-se sobre o adimplemento, o que se faz com a demonstração do montante da dívida em cada etapa, mediante as planilhas anexas (documentos 2, 3 e 4), elaboradas com a mesma metodologia da planilha que instruiu a petição inicial.
+
+Ante o exposto, a presente manifestação atende ao ato ordinatório e esclarece a data, o valor e os acessórios do adimplemento, de modo que a quitação seja declarada com precisão e com segurança para ambas as partes.
+
+## DO DEPÓSITO EFETUADO EM GARANTIA E DA DATA DA SATISFAÇÃO DO CRÉDITO
+
+O primeiro depósito foi efetuado pela executada em 16 de maio de 2025, e a própria executada esclareceu a sua finalidade, nos seguintes termos (ID 91877535):
+
+> O Executado efetuou o pagamento integral em garantia da execução, conforme comprovante de depósito anexo, com o intuito de assegurar o juízo e viabilizar o exercício do contraditório e da ampla defesa, especialmente mediante a interposição de embargos à execução.
+
+<!-- p. 37 -->
+
+Não se tratou, portanto, de pagamento, mas de depósito para garantir o juízo e viabilizar a oposição de embargos. A lei dispensa o depósito para a oposição dos embargos, pois o art. 914 do Código de Processo Civil dispõe que o executado, independentemente de penhora, depósito ou caução, poderá se opor à execução por meio de embargos. A garantia serve, nos termos do art. 919, § 1º, do mesmo Código, para que o juiz, a requerimento do embargante, possa atribuir efeito suspensivo aos embargos.
+
+Os embargos foram efetivamente opostos, como certificado pela Secretaria (ID 91878644):
+
+> Certifico a interposição dos Embargos à Execução (Processo nº 0804691-12.2025.4.05.8200 ), distribuídos por dependência à Execução em epígrafe.
+
+<!-- p. 30 -->
+
+Em razão deles e do depósito em garantia, o presente feito foi suspenso, conforme despacho de ID 122736162:
+
+> Tendo em vista a interposição dos Embargos à Execução n° 0804691-12.2025.4.05.8200, com o depósito em garantia, determino a suspensão do andamento deste feito, aguardando o julgamento daquela ação.
+
+<!-- p. 25 -->
+
+Os embargos foram extintos sem resolução do mérito, com o indeferimento da petição inicial (ID 126020975), foram rejeitados os embargos de declaração (ID 137385915) e o trânsito em julgado foi certificado nos seguintes termos (ID 149795005):
+
+> Certifico que a sentença transitou em julgado em 10/03/2026.
+
+<!-- p. 20 -->
+
+Registre-se que a exequente não deu causa à permanência dos valores na conta judicial. Atendendo ao Despacho de ID 91878125, apresentou os dados bancários e requereu a transferência da totalidade dos valores, por meio da petição de ID 91878598:
+
+> REQUER A EXPEDIÇÃO DE ALVARÁ DE TRANSFERÊNCIA ELETRÔNICA de todos os valores disponíveis na conta judicial.
+
+<!-- p. 28 -->
+
+O processo, contudo, ficou suspenso em razão dos embargos e do depósito em garantia, de modo que os valores permaneceram vinculados ao Juízo até a transferência efetivada em 3 de julho de 2026.
+
+O depósito judicial somente produz o efeito de pagamento nos casos e na forma legais, como estabelece o art. 334 do Código Civil:
+
+> Art. 334. Considera-se pagamento, e extingue a obrigação, o depósito judicial ou em estabelecimento bancário da coisa devida, nos casos e forma legais.
+
+Não houve consignação em pagamento, mas depósito para garantia do juízo, que mantém a quantia vinculada ao processo e ao resultado dos embargos, sem entregá-la ao credor. Daí decorre que a satisfação do crédito somente se consumou em 3 de julho de 2026, com a transferência dos valores à exequente. Até essa data, a executada permaneceu em mora quanto ao crédito não satisfeito, pois, nos termos do art. 394 do Código Civil, considera-se em mora o devedor que não efetuar o pagamento no tempo, lugar e forma que a lei ou a convenção estabelecer, e, nos termos do art. 397, o inadimplemento da obrigação positiva e líquida, no seu termo, constitui de pleno direito em mora o devedor.
+
+Por essa razão, as planilhas anexas fazem correr os encargos moratórios até a data do levantamento e abatem o valor levantado nessa data. Registre-se que foi abatido o valor integral levantado, de R$ 14.470,58, inclusive a parcela correspondente à atualização aplicada pela instituição depositária, sem qualquer dedução.
+
+Diante do exposto, o depósito de 16 de maio de 2025 constituiu garantia do juízo, sem efeito de pagamento, e o adimplemento do crédito exequendo ocorreu em 3 de julho de 2026, data em que o valor levantado deve ser abatido, com a mora fluindo até então.
+
+## DOS HONORÁRIOS ADVOCATÍCIOS DA EXECUÇÃO
+
+A decisão que recebeu a execução fixou os honorários advocatícios em dez por cento e estabeleceu a condição para a sua redução (ID 91878400):
+
+> 2. Fixo a verba honorária em 10% sobre o valor da execução, na forma do art. 827 do CPC.
+
+> 3. CITE-se o EXECUTADO para efetuar o pagamento integral da dívida no prazo de 03 (três) dias, incluindo os honorários (art. 829, do CPC), ciente de que, se esse pagamento for feito no referido prazo, os honorários ficarão reduzidos para 5%, (art. 827, §1º, do CPC).
+
+<!-- p. 41 -->
+
+A decisão reproduz a regra do art. 827 do Código de Processo Civil:
+
+> Art. 827. Ao despachar a inicial, o juiz fixará, de plano, os honorários advocatícios de dez por cento, a serem pagos pelo executado.
+
+> § 1º No caso de integral pagamento no prazo de 3 (três) dias, o valor dos honorários advocatícios será reduzido pela metade.
+
+A redução depende, portanto, de integral pagamento no prazo de três dias. A executada foi intimada da decisão em 8 de maio de 2025, conforme a certidão de ID 91878313, e somente em 16 de maio de 2025 efetuou o depósito (ID 91878172 e ID 91877535), depois de escoado o prazo de três dias. Além disso, como já demonstrado, o depósito não foi pagamento, mas garantia do juízo.
+
+Há ainda uma circunstância aritmética que confirma que o depósito foi calculado com a verba reduzida. O valor depositado, de R$ 7.269,51, corresponde ao valor da planilha da petição inicial, de R$ 6.923,34, acrescido de cinco por cento. O resultado indica que não houve atualização do débito entre a data da planilha, em março de 2025, e a data do depósito, e que foram aplicados honorários de cinco por cento, sem amparo no art. 827, § 1º, do Código de Processo Civil.
+
+Ante o exposto, os honorários advocatícios devem ser mantidos em dez por cento, calculados, como nas planilhas anexas, sobre o valor atualizado do débito, acrescido da multa.
+
+## DOS ENCARGOS E DO CRITÉRIO DE ATUALIZAÇÃO ADOTADO NAS PLANILHAS
+
+As planilhas anexas mantêm os parâmetros da planilha que instruiu a petição inicial (ID 91877722): correção monetária pelo INPC, com pró-rata nominal no primeiro e no último mês; juros de mora de 1% ao mês, simples e sem capitalização, sobre o valor corrigido; e multa de 2% sobre o valor corrigido acrescido dos juros. Acrescentou-se, nos termos da decisão de ID 91878400, a verba honorária de 10% sobre o valor corrigido, os juros e a multa. Foram desconsideradas as variações negativas do índice, de modo a não reduzir o valor nominal da obrigação.
+
+Os boletos que acompanharam a petição inicial já consignavam os encargos de mora, como se vê da instrução que consta, por exemplo, do boleto vencido em 10 de novembro de 2019, no valor de R$ 64,90 (ID 91878312):
+
+> APÓS O VENCIMENTO MULTA DE R$1,30 + JUROS DIÁRIOS DE R$0,02
+
+<!-- p. 80 -->
+
+Em termos aritméticos, tais valores correspondem à multa de 2% e aos juros de 1% ao mês sobre a taxa então vigente, parâmetros que se mantêm nas planilhas anexas.
+
+A incidência dos encargos encontra amparo no art. 1.336, § 1º, do Código Civil, segundo o qual:
+
+> § 1º O condômino que não pagar a sua contribuição ficará sujeito à correção monetária e aos juros moratórios convencionados ou, não sendo previstos, aos juros estabelecidos no art. 406 deste Código, bem como à multa de até 2% (dois por cento) sobre o débito.
+
+Tratando-se de obrigação positiva e líquida, com termo certo, a mora se constituiu de pleno direito no vencimento de cada parcela, nos termos do art. 397 do Código Civil, e os encargos incidem desde então.
+
+Ante o exposto, as planilhas anexas observam os mesmos parâmetros da planilha da petição inicial e a decisão que fixou a verba honorária, não havendo qualquer acréscimo estranho aos autos.
+
+## DAS TAXAS VENCIDAS NO CURSO DA EXECUÇÃO E DAS CUSTAS
+
+A teor do que dispõe o art. 323 do Código de Processo Civil, na ação que tenha por objeto o cumprimento de obrigação em prestações sucessivas, essas serão consideradas incluídas no pedido, independentemente de declaração expressa do autor, e serão incluídas na condenação enquanto durar a obrigação, se o devedor, no curso do processo, deixar de pagá-las.
+
+Não se trata de inovação, mas de pedido que consta da própria petição inicial. Com efeito, a exequente requereu expressamente a inclusão das prestações vincendas, conforme se colhe da petição inicial (ID 91877920):
+
+> Sendo assim, tratando-se de cotas condominiais de prestações periódicas e sucessivas, as cotas vencidas e não pagas no decorrer da presente execução deverão ser incluídas no pedido e na condenação nos termos do art. 323 do Código de Processo Civil
+
+> d. Seja aplicado o art. 323 do Novo Código de Processo Civil, que, por se tratarem as cotas condominiais de prestações periódicas e sucessivas, a condenação deve alcançar as contribuições vencidas até a liquidação final, o que significa dizer, até o seu efetivo pagamento;
+
+<!-- p. 180 -->
+
+É dizer, a inclusão das parcelas vencidas deve perdurar enquanto não satisfeita integralmente a obrigação, razão pela qual o eventual inadimplemento de prestações dispensa nova ação de cobrança referente a período posterior.
+
+O entendimento encontra respaldo na jurisprudência, inclusive do Tribunal de Justiça do Estado do Paraná, que reconhece a possibilidade de inclusão das cotas condominiais vincendas na própria fase de cumprimento de sentença:
+
+> Ementa: Direito processual civil. Agravo de instrumento. Cobrança de taxas condominiais vincendas. Cumprimento de sentença. Possibilidade. Recurso conhecido e provido. I. Caso em exame 1. Agravo de Instrumento interposto por Condomínio Conjunto Residencial Bell Terra contra decisão que acolheu parcialmente a impugnação ao cumprimento de sentença em ação de cobrança de dívidas condominiais, reconhecendo excesso de execução e excluindo a inclusão de cotas condominiais vincendas. O agravante requereu a reforma da decisão para que fossem incluídas as taxas condominiais vincendas na condenação. II. Questão em discussão 2. A questão em discussão consiste em saber se é possível a inclusão das cotas condominiais vincendas na condenação em ação de cobrança de dívidas condominiais, mesmo após o trânsito em julgado da sentença. III. Razões de decidir 3. O juízo a quo reconheceu excesso de execução, determinando a exclusão das cotas condominiais vincendas. 4. O artigo 323 do CPC estabelece que, em ações de cumprimento de obrigação em prestações sucessivas, as parcelas vincendas são consideradas incluídas no pedido, independentemente de declaração expressa do autor. 5. A sentença transitada em julgado reconheceu a possibilidade de cobrança das parcelas vincendas, conforme fundamentação e demonstrativo de débito apresentados pelo autor. 6. A jurisprudência do STJ e desta Câmara já reconheceu a possibilidade de inclusão das parcelas vincendas em ações de cobrança de taxas condominiais. IV. Dispositivo e tese 7. Recurso conhecido e provido para incluir as cotas condominiais vincendas na condenação. Tese de julgamento: É possível a inclusão das parcelas vincendas de taxas condominiais na condenação em ações de cobrança, conforme disposto no art. 323 do Código de Processo Civil. Dispositivos relevantes citados: CPC/2015, art. 323; CPC/1973, art. 290. Jurisprudência relevante citada: TJPR, 8ª Câmara Cível, 0034950-14.2023.8.16.0000, Rel. Desembargadora Themis de Almeida Furquim, j. 14.08.2023; STJ, AgInt no AREsp n. 1.920.122/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, j. 15.08.2022; Súmulas nºs 5 e 7/STJ. (TJ-PR 01208320720248160000 Curitiba, Relator: Antonio Domingos Ramina Junior, Data de Julgamento: 07/04/2025, 8ª Câmara Cível, Data de Publicação: 07/04/2025)
+
+No mesmo sentido:
+
+> Ementa: DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. TAXAS CONDOMINIAIS. INCLUSÃO DE PARCELAS VINCENDAS. POSSIBILIDADE. JUROS E CORREÇÃO MONETÁRIA. RECURSO PROVIDO. I. CASO EM EXAME 1. Agravo de instrumento interposto pela parte exequente contra decisão que suspendeu o cumprimento de sentença referente ao pagamento de taxas condominiais vencidas e inadimplidas entre maio de 2016 e outubro de 2019, e afastou a incidência de juros e correção monetária sobre o saldo devedor. O valor total da execução foi limitado a R$ 79.376,94, sem a inclusão de parcelas vincendas, sob o fundamento de que a devedora não estaria mais em mora. II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) a possibilidade de inclusão das parcelas vincendas das taxas condominiais no cumprimento de sentença, conforme o art. 323 do CPC; e (ii) a necessidade de aplicação de juros e correção monetária sobre o saldo devedor até a quitação integral da dívida. III. RAZÕES DE DECIDIR 3. A inclusão das parcelas vincendas em cumprimento de sentença é possível em obrigações de trato sucessivo, como as taxas condominiais, conforme estabelece o art. 323 do CPC, sem que isso implique ofensa à exigência de certeza, liquidez e exigibilidade do título executivo. 4. A purgação da mora somente ocorre com o pagamento integral da dívida, incluindo parcelas vencidas e juros de mora, nos termos do art. 395 do Código Civil. 5. A decisão que afastou a incidência de juros e correção monetária beneficia indevidamente o devedor, que permanece em mora enquanto não quitar integralmente o débito, sendo imprescindível a atualização monetária e a incidência de juros sobre o saldo devedor. 6. Precedentes do STJ e do TJDFT confirmam a possibilidade de inclusão de parcelas vincendas no cumprimento de sentença, bem como a necessidade de atualização do saldo devedor com juros e correção monetária. IV. DISPOSITIVO E TESE 7. Recurso provido. Tese de julgamento: 1) Em obrigações de trato sucessivo, é possível incluir as parcelas vincendas no cumprimento de sentença até a quitação integral da dívida, conforme o art. 323 do CPC; 2) O saldo devedor deve ser atualizado com juros e correção monetária até a quitação integral, nos termos do art. 395 do Código Civil. Dispositivos relevantes citados: CPC, art. 323; CC, arts. 395 e 481, inciso I. Jurisprudências relevantes citadas: STJ, AgInt no AREsp nº 1.920.122/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, j. 15.08.2022; TJDFT, Acórdão nº 1317518, Rel. Des. Carmelita Brasil, Câmara de Uniformização, j. 22.02.2021. (TJ-DF 07146102320248070000 1946968, Relator: RENATO SCUSSEL, Data de Julgamento: 19/11/2024, 2ª Turma Cível, Data de Publicação: 05/12/2024)
+
+Conforme se extrai dos julgados anteriormente colacionados, tratando-se de obrigação de trato sucessivo, as parcelas vincendas consideram-se incluídas na condenação, independentemente de declaração expressa, perdurando a inclusão enquanto não integralmente satisfeita a obrigação. A memória de cálculo apresentada, ao contemplar a continuidade do débito da unidade condominial, limita-se a observar pedido já formulado na petição inicial e que encontra amparo na lei e na jurisprudência, não havendo falar em excesso.
+
+A mesma lógica se aplica à execução de título extrajudicial de despesas condominiais, em que a obrigação, igualmente de trato sucessivo, comporta a inclusão das parcelas vencidas no curso do processo no débito exequendo, até a satisfação integral. Por essa razão, a planilha de documento 2 reúne as parcelas vencidas até 10 de junho de 2026, e a planilha de documento 3 reúne as parcelas vencidas depois do levantamento, em 10 de julho, 10 de agosto, 10 de setembro e 10 de outubro de 2026, todas com as mesmas incidências.
+
+Quanto às custas, o art. 82 do Código de Processo Civil determina que incumbe às partes prover as despesas dos atos que realizarem ou requererem no processo, antecipando-lhes o pagamento, e o seu § 2º estabelece:
+
+> § 2º A sentença condenará o vencido a pagar ao vencedor as despesas que antecipou.
+
+Foram antecipadas pela exequente as custas iniciais (ID 91877922 e ID 91878796) e a despesa com a certidão de matrícula do imóvel (ID 91878357). Tais despesas constam do documento 4, atualizadas apenas pelo INPC, sem incidência de juros, multa ou honorários, e perfazem R$ 216,00 (duzentos e dezesseis reais) em 13 de outubro de 2026.
+
+Ante o exposto, as parcelas vencidas no curso da execução e as despesas antecipadas pela exequente integram o débito, nos termos do art. 323 do Código de Processo Civil e do pedido formulado na petição inicial.
+
+## DO RESULTADO DA APURAÇÃO E DA QUITAÇÃO
+
+Aplicados os parâmetros acima, a planilha de documento 2 reúne 82 (oitenta e dois) lançamentos de taxas condominiais, sendo 66 da planilha da petição inicial e 16 vencidos no curso da execução, e apura, em 3 de julho de 2026, o débito de R$ 10.324,00 (dez mil, trezentos e vinte e quatro reais), já com a multa de 2% e os honorários de 10%. Abatido o valor levantado, de R$ 14.470,58, nessa mesma data, resulta saldo credor de R$ 4.146,58 (quatro mil, cento e quarenta e seis reais e cinquenta e oito centavos) em favor da executada.
+
+Posteriormente ao levantamento, venceram quatro parcelas, que, atualizadas até 13 de outubro de 2026, somam R$ 302,63 (trezentos e dois reais e sessenta e três centavos), conforme o documento 3. A esse valor somam-se as custas de R$ 216,00 do documento 4, o que totaliza R$ 518,63 (quinhentos e dezoito reais e sessenta e três centavos).
+
+Compensado esse total com o saldo credor, o crédito exequendo, incluídas as taxas vencidas até 13 de outubro de 2026 e as custas, encontra-se integralmente satisfeito, remanescendo, em valor nominal apurado nessa data, saldo credor de R$ 3.627,95 (três mil, seiscentos e vinte e sete reais e noventa e cinco centavos) em favor da executada. Por lealdade e boa-fé processuais, nos termos do art. 5º do Código de Processo Civil, a exequente informa e reconhece essa conclusão.
+
+Ante o exposto, o crédito exequendo foi satisfeito em 3 de julho de 2026, e as parcelas vencidas até 13 de outubro de 2026 e as custas estão cobertas pelo valor levantado, de modo que a obrigação da executada nestes autos está quitada, nos termos do art. 924, inciso II, do Código de Processo Civil.
+
+## DO SALDO CREDOR E DAS TAXAS CONDOMINIAIS POSTERIORES
+
+A obrigação de contribuir para as despesas do condomínio é propter rem e de trato sucessivo e subsiste enquanto a executada for proprietária da unidade, como consta da matrícula de ID 91878357, na qual figura como proprietário o Fundo de Arrendamento Residencial, representado pela Caixa Econômica Federal. Assim, as taxas condominiais vencidas após 13 de outubro de 2026 não integram a presente apuração e permanecem exigíveis nos termos da lei e da convenção.
+
+Quanto ao saldo credor, trata-se de valor que, na apuração acima, pertence à executada, cuja destinação depende de sua manifestação. A executada poderá optar pela restituição, mediante indicação de conta, ou pela compensação com as taxas condominiais que venham a vencer. A compensação, nos termos dos arts. 368 e 369 do Código Civil, efetua-se entre dívidas líquidas, vencidas e de coisas fungíveis, de modo que se opera na medida em que as taxas posteriores venham a vencer e desde que haja a concordância do credor das respectivas taxas.
+
+Ante o exposto, requer-se que a executada seja intimada para se manifestar sobre a destinação do saldo credor, ficando ressalvada a exigibilidade das taxas condominiais vencidas após 13 de outubro de 2026.
+
+## DOS PEDIDOS
+
+Diante de todo o exposto, requer:
+
+a) o recebimento desta manifestação e das planilhas anexas (documentos 2, 3 e 4);
+
+b) o reconhecimento de que o depósito de 16 de maio de 2025 constituiu garantia do juízo e de que o adimplemento do crédito exequendo se deu em 3 de julho de 2026, com o levantamento, abatendo-se nessa data o valor de R$ 14.470,58, com a mora fluindo até então;
+
+c) a manutenção dos honorários advocatícios da execução em dez por cento, nos termos da decisão de ID 91878400;
+
+d) a homologação da apuração, declarando-se satisfeito o crédito exequendo, incluídas as taxas vencidas até 13 de outubro de 2026 e as custas, com saldo credor de R$ 3.627,95 em favor da executada;
+
+e) a intimação da executada, no prazo de 15 (quinze) dias, para se manifestar sobre a destinação do saldo credor, ficando ressalvada a exigibilidade das taxas condominiais vencidas após 13 de outubro de 2026;
+
+f) após a manifestação da executada, a extinção da execução, nos termos dos arts. 924, inciso II, e 925 do Código de Processo Civil.
+
+Requer, por fim, que todas as publicações e intimações sejam realizadas exclusivamente em nome do advogado Dr. PAULO ESTEVES CARNEIRO, inscrito na OAB/PB nº 30.780-A, sob pena de nulidade.
+
+<!-- word:fim -->
+
+Nestes termos,
+Pede deferimento.
+Curitiba, 13 de outubro de 2026.
+PAULO ESTEVES SILVA CARNEIRO
+OAB/PB nº 30.780-A
